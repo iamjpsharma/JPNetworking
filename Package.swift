@@ -1,11 +1,11 @@
 // swift-tools-version: 5.7
-// SwiftNet - Production-Ready Networking Framework
+// JPNetworking - Production-Ready Networking Framework
 // Minimum Swift 5.7 for async/await and modern concurrency support
 
 import PackageDescription
 
 let package = Package(
-    name: "SwiftNet",
+    name: "JPNetworking",
     
     // MARK: - Platform Support
     // Supporting modern iOS/macOS versions for optimal performance and feature set
