@@ -783,7 +783,7 @@ JPNetworking is released under the MIT License. See [LICENSE](LICENSE) for detai
 - 📖 [Documentation](https://iamjpsharma.github.io/JPNetworking)
 - 🐛 [Issue Tracker](https://github.com/iamjpsharma/JPNetworking/issues)
 - 💬 [Discussions](https://github.com/iamjpsharma/JPNetworking/discussions)
-- 📧 Email: iamjpsharma@gmail.com
+- 📧 Email: sjaiprakash457@gmail.com
 
 ---
 
